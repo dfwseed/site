@@ -1,0 +1,25 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+h1 {
+	font-family: 'Fjalla One', Anton, GillSans, Calibri, Trebuchet, sans-serif;
+}
+h5,h4,p {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	text-align: justify;
+}
+.eyblue {
+	color: #25337c;
+}
